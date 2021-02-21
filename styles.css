@@ -1,0 +1,44 @@
+/* add your CSS here */
+
+.card{
+    width: 310px;
+    border: 1px solid indigo;
+    padding: .5em;
+    background-color: rgba(165, 42, 42, 0.801);
+    border-radius: 25px; 
+}
+
+.namebox{
+    width: 300px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    text-align: center;
+}
+
+.infobox{
+    width: 300px;
+    border: 1px dotted;
+    padding: .2em;
+    background-color: goldenrod;
+    border-radius: 10px;
+}
+
+.fact{
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
